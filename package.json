@@ -1,0 +1,26 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "It's a simple to-do web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavrajsingh2001/node-to-do.git"
+  },
+  "author": "vrs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavrajsingh2001/node-to-do/issues"
+  },
+  "homepage": "https://github.com/vaibhavrajsingh2001/node-to-do#readme",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  },
+  "dependencies": {}
+}
